@@ -4,3 +4,9 @@ ahora intentamos algo nuevo
 
 ahora ya hice commit y push desde aqui quiero ver si se queda guardada la info al usar "git push --set-upstream origin main"
 
+Esta linea sera la del problema
+Esta linea sera la del problema2
+
+
+
+Esta linea sera la del problema3
