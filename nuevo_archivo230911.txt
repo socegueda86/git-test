@@ -1,0 +1,1 @@
+voy a probar ingresar este texto y luego barjlo con fetch en la otra carpeta y luego con pull como si fueran dos repos difrentes. Tambien quiero intentar modifcarlos y hacer pull y fetch para ver como es que se debe de conciliar diferencias entre archivos
